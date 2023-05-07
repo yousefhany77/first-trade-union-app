@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yousefhany77/first-trade-union-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yousefhany77/frontend-first-trade-union
